@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">練習アプリ</string>
+    <string name="sub_title">サブ画面タイトル</string>
+    <string name="hint">名前を入力してください</string>
+    <string name="drink">ドリンク</string>
+    <string name="food">フード</string>
+    <string name="man">男</string>
+    <string name="woman">女</string>
+    <string name="name">名前</string>
+    <string name="Button">確認</string>
+    <string name="Password">パスワード</string>
+    <string name="Password2">パスワードは数値で入力してください</string>
+    <string name="old">10代</string>
+    <string name="old2">20代</string>
+    <string name="old3">30代</string>
+    <string name="nendai">年代</string>
+    <string name="seibetsu">性別</string>
+    <string name="clear">クリア</string>
+    <string name="profile">プロフィール</string>
+    <string name="Data">データを入力してください</string>
+    <string name="tsuika">データ追加</string>
+    <string name="hintBt">感想を入力してください</string>
+    <string name="hozon">保存</string>
+    <string name="cancel">キャンセル</string>
+    <string name="reset">リセット</string>
+    <string name="search">検索</string>
+    <string name="camera">カメラ起動</string>
+    <string-array name="currylist">
+        <item>ドライカレー</item>
+        <item>カツカレー</item>
+    </string-array>
+</resources>
